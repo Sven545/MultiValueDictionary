@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\bin\Debug\net6.0\MultiValDictionary.exe
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\bin\Debug\net6.0\MultiValDictionary.deps.json
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\bin\Debug\net6.0\MultiValDictionary.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\bin\Debug\net6.0\MultiValDictionary.dll
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\bin\Debug\net6.0\MultiValDictionary.pdb
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.dll
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\refint\MultiValDictionary.dll
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.pdb
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\MultiValDictionary.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\MultiValDictionary\MultiValDictionary\obj\Debug\net6.0\ref\MultiValDictionary.dll
